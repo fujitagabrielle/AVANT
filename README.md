@@ -103,16 +103,15 @@ Realizando a leitura dos arquivos CSV através do Python:
 
 ## Figura 5: Python
 
-Concatenando os arquivos de 2020 a 2025
+- Concatenando os arquivos de 2020 a 2025
 
 <img width="945" height="53" alt="image" src="https://github.com/user-attachments/assets/dccc8d8b-2fa0-4001-8bc9-d281a459dc02" />
 
-<img width="427" height="903" alt="image" src="https://github.com/user-attachments/assets/1a4cc82e-ca11-4e39-b3ae-8239df5f7b51" />
-
 ## Figura 6: Python
 
-Identificando as informações dos arquivos, verificando a informação de cada coluna da base de dados:
+- Identificando as informações dos arquivos, verificando a informação de cada coluna da base de dados:
 
+<img width="427" height="903" alt="image" src="https://github.com/user-attachments/assets/1a4cc82e-ca11-4e39-b3ae-8239df5f7b51" />
 <img width="753" height="1084" alt="image" src="https://github.com/user-attachments/assets/43223d29-a9d5-4ae1-80af-b4cce91bd17f" />
 
 ## Figura 7: Python
