@@ -102,7 +102,8 @@ Realizando a leitura dos arquivos CSV através do Python:
 
 
 ## Figura 5: Python
-Conectando os arquivos de 2020 a 2025
+
+Concatenando os arquivos de 2020 a 2025
 
 <img width="945" height="53" alt="image" src="https://github.com/user-attachments/assets/dccc8d8b-2fa0-4001-8bc9-d281a459dc02" />
 
