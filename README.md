@@ -128,7 +128,7 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 # Dashboard com análise de dados no Power BI
 
--Ranking de municípios com maior incidência de acidentes:
+## Ranking de municípios com maior incidência de acidentes:
 <br>
 <img width="578" height="283" alt="image" src="https://github.com/user-attachments/assets/21548e30-8f7b-4d29-89c6-7cfe1aee4f05" />
 <br/>
