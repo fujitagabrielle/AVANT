@@ -128,7 +128,7 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 # Dashboard com análise de dados no Power BI
 
-## Ranking de municípios com maior incidência de acidentes:
+## RANKING DE MUNICÍPIOS COM MAIOR INCIDÊNCIA DE ACIDENTES:
 <br>
 <img width="578" height="283" alt="image" src="https://github.com/user-attachments/assets/21548e30-8f7b-4d29-89c6-7cfe1aee4f05" />
 <br/>
@@ -142,12 +142,12 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 <img width="581" height="331" alt="image" src="https://github.com/user-attachments/assets/c463198b-423a-49cd-ae08-45410491edd5" />
 
-## Acidentes por dias da semana:
+## ACIDENTES POR DIAS DA SEMANA:
 
 <img width="602" height="365" alt="image" src="https://github.com/user-attachments/assets/d76e0493-5382-42a6-a7be-bdb46efaa13d" />
 
 
-## Horários com maior ìndice de acidentes:
+## HORÁRIOS COM MAIOR ÍNDICE DE ACIDENTES:
 
 <img width="633" height="405" alt="image" src="https://github.com/user-attachments/assets/4f045361-3a41-4490-88fa-12d24e65db00" />
 
