@@ -151,6 +151,23 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 <img width="633" height="405" alt="image" src="https://github.com/user-attachments/assets/4f045361-3a41-4490-88fa-12d24e65db00" />
 
+## DISTRIBUIÇÃO DE ENVOLVIDOS POR FAIXA ETÁRIA:
+
+<img width="714" height="391" alt="image" src="https://github.com/user-attachments/assets/7faa8545-f19a-4cb5-aeb2-1e83619bc0d1" />
+
+## INCIDÊNCIA POR CATEGORIA DE VEÍCULO: 
+
+<img width="709" height="415" alt="image" src="https://github.com/user-attachments/assets/5d807567-aa11-48cb-9998-ca51cb57ae07" />
+
+## PROPORÇÃO DE ENVOLVIDOS POR GÊNERO: 
+
+<img width="715" height="329" alt="image" src="https://github.com/user-attachments/assets/fe3dbcc4-d051-4b2e-bdcf-ae227947a1a9" />
+
+## RANKING DAS 10PRINCIPAIS MARCAS DE VEÍCULOS:
+
+<img width="714" height="364" alt="image" src="https://github.com/user-attachments/assets/8805995c-bc41-4b13-afa5-afc072a73425" />
+
+
 
 #  Requisitos do Projeto
 
