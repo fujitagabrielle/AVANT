@@ -203,7 +203,13 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 ## ARQUIVO SALVO EM CSV
 <img width="1432" height="815" alt="image" src="https://github.com/user-attachments/assets/0ee0c016-53cb-4d3c-a51c-b95bbd2194e4" />
 
+ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
+## MORTES POR ACIDENTE NO MUNICÍPIO
+<img width="828" height="485" alt="image" src="https://github.com/user-attachments/assets/d937139b-dcc0-4b17-b6c4-afb34165b87b" />
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4e442f16-606c-497e-8679-bcc9f57fc914" />
+
+<img width="1073" height="837" alt="image" src="https://github.com/user-attachments/assets/15f5db92-7107-430c-aed9-577da9928df2" />
 
 # Competências desenvolvidas
 
