@@ -73,6 +73,36 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 | 16 | Baixa | Como cliente, quero um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes. | 10 | 3 |
 
 ---
+#  Requisitos do Projeto
+
+## Requisitos Funcionais
+
+- Apresentar dashboard interativo com visualização nacional e estadual dos dados de segurança viária.
+- Exibir indicadores como mortalidade por 100 mil habitantes, sinistros por 10 mil veículos e ranking de eficiência dos municípios.
+- Permitir filtros por ano, região, tipo de veículo e gravidade do sinistro.
+- Gerar relatórios e gráficos comparativos para apoio à análise e tomada de decisão.
+- Oferecer boa experiência do usuário (UX), com navegação simples, intuitiva e acesso rápido às informações.
+
+---
+
+## Requisitos Não Funcionais
+
+- Utilizar Python para tratamento, limpeza e integração das bases de dados.
+- Desenvolver o front-end no Power BI.
+- Utilizar GitHub para versionamento e controle dos artefatos do projeto.
+- Aplicar metodologia ágil para organização das entregas e acompanhamento das sprints.
+- Garantir interface responsiva e apresentação visual clara.
+
+---
+
+#  Requisitos do Cliente
+
+- Receber um dashboard com dados confiáveis e atualizados sobre segurança viária no Brasil.
+- Possuir análises comparativas entre estados e indicadores nacionais.
+- Identificar fatores de risco envolvendo veículos pesados e principais causas de sinistros.
+- Obter um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
+- Utilizar os resultados como apoio para estudos acadêmicos e formulação de políticas públicas.
+
 
 ## Figura 1: Python 
 
@@ -170,38 +200,10 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 ## ARQUIVO EXCEL SENDO EXPORTADO PARA CSV
 <img width="862" height="720" alt="image" src="https://github.com/user-attachments/assets/2b0badaf-cc60-440b-aaf8-cb65bc9bf2ad" />
 
+## ARQUIVO SALVO EM CSV
+<img width="1432" height="815" alt="image" src="https://github.com/user-attachments/assets/0ee0c016-53cb-4d3c-a51c-b95bbd2194e4" />
 
 
-
-#  Requisitos do Projeto
-
-## Requisitos Funcionais
-
-- Apresentar dashboard interativo com visualização nacional e estadual dos dados de segurança viária.
-- Exibir indicadores como mortalidade por 100 mil habitantes, sinistros por 10 mil veículos e ranking de eficiência dos municípios.
-- Permitir filtros por ano, região, tipo de veículo e gravidade do sinistro.
-- Gerar relatórios e gráficos comparativos para apoio à análise e tomada de decisão.
-- Oferecer boa experiência do usuário (UX), com navegação simples, intuitiva e acesso rápido às informações.
-
----
-
-## Requisitos Não Funcionais
-
-- Utilizar Python para tratamento, limpeza e integração das bases de dados.
-- Desenvolver o front-end no Power BI.
-- Utilizar GitHub para versionamento e controle dos artefatos do projeto.
-- Aplicar metodologia ágil para organização das entregas e acompanhamento das sprints.
-- Garantir interface responsiva e apresentação visual clara.
-
----
-
-#  Requisitos do Cliente
-
-- Receber um dashboard com dados confiáveis e atualizados sobre segurança viária no Brasil.
-- Possuir análises comparativas entre estados e indicadores nacionais.
-- Identificar fatores de risco envolvendo veículos pesados e principais causas de sinistros.
-- Obter um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
-- Utilizar os resultados como apoio para estudos acadêmicos e formulação de políticas públicas.
 
 # Competências desenvolvidas
 
