@@ -167,6 +167,10 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 <img width="714" height="364" alt="image" src="https://github.com/user-attachments/assets/8805995c-bc41-4b13-afa5-afc072a73425" />
 
+## ARQUIVO EXCEL SENDO EXPORTADO PARA CSV
+<img width="862" height="720" alt="image" src="https://github.com/user-attachments/assets/2b0badaf-cc60-440b-aaf8-cb65bc9bf2ad" />
+
+
 
 
 #  Requisitos do Projeto
