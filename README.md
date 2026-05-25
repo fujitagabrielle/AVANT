@@ -216,6 +216,11 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 
 <img width="1164" height="743" alt="image" src="https://github.com/user-attachments/assets/00b1f3f8-d718-4b14-a14f-182f2ad12f81" />
 
+## RESULTADO DA ANÁLISE DE EFICIÊNCIA DOS ESTADOS
+
+<img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/5699b859-24d6-4d45-872d-1b4461a6263b" />
+
+
 
 # Competências desenvolvidas
 
