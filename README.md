@@ -212,6 +212,11 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 
 <img width="1073" height="837" alt="image" src="https://github.com/user-attachments/assets/15f5db92-7107-430c-aed9-577da9928df2" />
 
+## MÉDIA POPULACIONAL POR CADA MUNICÍPIO 
+
+<img width="1164" height="743" alt="image" src="https://github.com/user-attachments/assets/00b1f3f8-d718-4b14-a14f-182f2ad12f81" />
+
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
