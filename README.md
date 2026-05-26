@@ -15,7 +15,7 @@ Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técni
 * [Requisitos do Projeto](#-requisitos-do-projeto)
 * [Requisitos do Cliente](#-requisitos-do-cliente)
 * [Desenvolvimento do projeto](#desenvolvimento-do-projeto)
-* [Competências desenvolvidas(#competências-desenvolvidas)
+* [Competências desenvolvidas](#competências-desenvolvidas)
 
 
 # Projeto (API) 
