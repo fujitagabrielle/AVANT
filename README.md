@@ -13,7 +13,7 @@ Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técni
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Backlog do Produto](#-backlog-do-produto)
 * [Requisitos do Projeto](#-requisitos-do-projeto)
-* [Requisitos do Cliente](#-requisitos-do-cliente)
+* [Requisitos do Cliente](#requisitos-do-cliente)
 * [Desenvolvimento do projeto](#desenvolvimento-do-projeto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
