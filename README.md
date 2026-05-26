@@ -3,6 +3,7 @@
 Projeto voltado à análise de eficiência da segurança viária.
 
 Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técnicas de análise de dados (DEA) para avaliar o desempenho dos municípios, ao mesmo tempo em que promove o desenvolvimento de competências como proatividade, autonomia, colaboração e foco em entrega de resultados entre os participantes.
+
 # Índice
 
 * [Projeto](#projeto-api)
@@ -13,6 +14,8 @@ Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técni
 * [Backlog do Produto](#-backlog-do-produto)
 * [Requisitos do Projeto](#-requisitos-do-projeto)
 * [Requisitos do Cliente](#-requisitos-do-cliente)
+* [Desenvolvimento do projeto] 
+(#desenvolvimento-do-projeto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
@@ -103,6 +106,7 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 - Obter um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
 - Utilizar os resultados como apoio para estudos acadêmicos e formulação de políticas públicas.
 
+# Desenvolvimento do projeto
 
 ## Figura 1: Python 
 
