@@ -220,8 +220,15 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 
 <img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/5699b859-24d6-4d45-872d-1b4461a6263b" />
 
-## APROXIMADAMENTE 70 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES 
-<img width="1557" height="595" alt="image" src="https://github.com/user-attachments/assets/a790ec23-1ca7-4551-9fbb-27bb169b4b68" />
+## APROXIMADAMENTE 117 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES 
+
+<img width="1455" height="598" alt="image" src="https://github.com/user-attachments/assets/09c386d2-6d12-45ef-996a-79fd5c4fed5e" />
+
+
+## 20 CIDADES MAIS POPULOSAS DO BRASIL
+
+<img width="1798" height="568" alt="image" src="https://github.com/user-attachments/assets/106f4898-c8b1-4c24-b50e-222f22d8e46d" />
+
 
 
 
