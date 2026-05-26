@@ -220,6 +220,10 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 
 <img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/5699b859-24d6-4d45-872d-1b4461a6263b" />
 
+## APROXIMADAMENTE 70 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES 
+<img width="1557" height="595" alt="image" src="https://github.com/user-attachments/assets/a790ec23-1ca7-4551-9fbb-27bb169b4b68" />
+
+
 
 
 # Competências desenvolvidas
