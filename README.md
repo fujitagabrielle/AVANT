@@ -200,14 +200,14 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 <img width="714" height="364" alt="image" src="https://github.com/user-attachments/assets/8805995c-bc41-4b13-afa5-afc072a73425" />
 
-## ARQUIVO EXCEL SENDO EXPORTADO PARA CSV
+## ARQUIVO EXCEL SENDO EXPORTADO PARA CSV:
 <img width="862" height="720" alt="image" src="https://github.com/user-attachments/assets/2b0badaf-cc60-440b-aaf8-cb65bc9bf2ad" />
 
-## ARQUIVO SALVO EM CSV
+## ARQUIVO SALVO EM CSV:
 <img width="1432" height="815" alt="image" src="https://github.com/user-attachments/assets/0ee0c016-53cb-4d3c-a51c-b95bbd2194e4" />
 
 ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
-## MORTES POR ACIDENTE NO MUNICÍPIO
+## MORTES POR ACIDENTE NO MUNICÍPIO:
 
 <img width="828" height="485" alt="image" src="https://github.com/user-attachments/assets/d937139b-dcc0-4b17-b6c4-afb34165b87b" />
 
@@ -215,24 +215,60 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 
 <img width="1073" height="837" alt="image" src="https://github.com/user-attachments/assets/15f5db92-7107-430c-aed9-577da9928df2" />
 
-## MÉDIA POPULACIONAL POR CADA MUNICÍPIO 
+## MÉDIA POPULACIONAL POR CADA MUNICÍPIO:
 
 <img width="1164" height="743" alt="image" src="https://github.com/user-attachments/assets/00b1f3f8-d718-4b14-a14f-182f2ad12f81" />
 
-## RESULTADO DA ANÁLISE DE EFICIÊNCIA DOS ESTADOS
+## RESULTADO DA ANÁLISE DE EFICIÊNCIA DOS ESTADOS:
 
 <img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/5699b859-24d6-4d45-872d-1b4461a6263b" />
 
-## APROXIMADAMENTE 117 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES 
+## APROXIMADAMENTE 117 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES:
 
 <img width="1455" height="598" alt="image" src="https://github.com/user-attachments/assets/09c386d2-6d12-45ef-996a-79fd5c4fed5e" />
 
 
-## 20 CIDADES MAIS POPULOSAS DO BRASIL
+## 20 CIDADES MAIS POPULOSAS DO BRASIL:
 
 <img width="1798" height="568" alt="image" src="https://github.com/user-attachments/assets/106f4898-c8b1-4c24-b50e-222f22d8e46d" />
 
 
+## DISTRIBUIÇÃO DE ENVOLVIDOS POR FAIXA ETARIA: 
+
+<img width="459" height="145" alt="image" src="https://github.com/user-attachments/assets/205673d8-c92b-4eae-8011-d2a2884bd5c1" />
+
+## PROPORÇÃO POR ENVOLVIDOS POR GÊNERO:
+
+<img width="456" height="131" alt="image" src="https://github.com/user-attachments/assets/a8663f9d-a1d7-4a9e-a085-4ffff0988964" />
+
+## RANKING DAS 10 PRINCIPAIS MARCAS DE VEÍCULOS:
+
+<img width="462" height="196" alt="image" src="https://github.com/user-attachments/assets/dc8c8bfd-cb70-4493-a141-1ecba8d39234" />
+
+ ## INCIDÊNCIA POR CATEGORIA DE VEÍCULO:
+ 
+<img width="432" height="230" alt="image" src="https://github.com/user-attachments/assets/6752b63c-6e46-4afa-8645-7509a7135b5f" />
+
+## VOLUME DE ACIDENTES POR FAIXA DE IDADE DE FROTA: 
+
+<img width="436" height="268" alt="image" src="https://github.com/user-attachments/assets/ee4527cd-8e9a-4816-9d00-309b4f794602" />
+
+ 
+##  RANKING DE ACIDENTES POR PROPORÇÃO POPULACIONAL:
+
+<img width="437" height="260" alt="image" src="https://github.com/user-attachments/assets/2f50a2eb-b796-472b-a388-ddc1a3a36b76" />
+
+## CORRELAÇÃO ENTRE VOLUME DE OCORRÊNCIAS E DENSIDADE POPULACIONAL:
+
+<img width="457" height="257" alt="image" src="https://github.com/user-attachments/assets/6c1d3303-5b15-442d-b15e-6b3b1b71963b" />
+
+## MATRIZ COMPARATIVA DE EFICIÊNCIA TÉCNICA POR UF:
+
+<img width="426" height="223" alt="image" src="https://github.com/user-attachments/assets/06d0ef1f-74aa-418e-9098-bdb049b12c2b" />
+
+## DESEMPENHO GLOBAL: EFICIÊNCIA VS. EVOLUÇÃO MÉDIA:
+
+<img width="445" height="232" alt="image" src="https://github.com/user-attachments/assets/b5cb0b73-decd-4d71-a643-12656a1e3ca1" />
 
 
 
