@@ -301,7 +301,8 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-## CORRELAÇÃO DE PEARSON
+
+# CORRELAÇÃO DE PEARSON
 <img width="497" height="262" alt="image" src="https://github.com/user-attachments/assets/30e198d9-9c74-4c47-b438-9d1ba1d0c9cb" />
 
 </details>
