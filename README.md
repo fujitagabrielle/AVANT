@@ -270,6 +270,9 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 
 <img width="445" height="232" alt="image" src="https://github.com/user-attachments/assets/b5cb0b73-decd-4d71-a643-12656a1e3ca1" />
 
+# Vídeo da conclusão da análise de dados de sugurança viária
+
+https://youtu.be/1oizxz9ZxDQ?si=fHOnUONHqyxU6SXL
 
 
 # Competências desenvolvidas
