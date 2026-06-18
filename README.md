@@ -251,6 +251,11 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 <img width="457" height="257" alt="image" src="https://github.com/user-attachments/assets/6c1d3303-5b15-442d-b15e-6b3b1b71963b" />
 
+# Relatório de teste estatística Qui Quadrado
+
+<img width="920" height="490" alt="image" src="https://github.com/user-attachments/assets/39b78e7b-438e-47fa-aa48-9fca3af511c4" />
+
+
 
 # Vídeo da conclusão da análise de dados de sugurança viária
 
