@@ -206,22 +206,11 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 ## ARQUIVO SALVO EM CSV:
 <img width="1432" height="815" alt="image" src="https://github.com/user-attachments/assets/0ee0c016-53cb-4d3c-a51c-b95bbd2194e4" />
 
-ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
-## MORTES POR ACIDENTE NO MUNICÍPIO:
-
-<img width="828" height="485" alt="image" src="https://github.com/user-attachments/assets/d937139b-dcc0-4b17-b6c4-afb34165b87b" />
-
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4e442f16-606c-497e-8679-bcc9f57fc914" />
-
-<img width="1073" height="837" alt="image" src="https://github.com/user-attachments/assets/15f5db92-7107-430c-aed9-577da9928df2" />
 
 ## MÉDIA POPULACIONAL POR CADA MUNICÍPIO:
 
 <img width="1164" height="743" alt="image" src="https://github.com/user-attachments/assets/00b1f3f8-d718-4b14-a14f-182f2ad12f81" />
 
-## RESULTADO DA ANÁLISE DE EFICIÊNCIA DOS ESTADOS:
-
-<img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/5699b859-24d6-4d45-872d-1b4461a6263b" />
 
 ## APROXIMADAMENTE 117 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES:
 
@@ -262,13 +251,6 @@ ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
 
 <img width="457" height="257" alt="image" src="https://github.com/user-attachments/assets/6c1d3303-5b15-442d-b15e-6b3b1b71963b" />
 
-## MATRIZ COMPARATIVA DE EFICIÊNCIA TÉCNICA POR UF:
-
-<img width="426" height="223" alt="image" src="https://github.com/user-attachments/assets/06d0ef1f-74aa-418e-9098-bdb049b12c2b" />
-
-## DESEMPENHO GLOBAL: EFICIÊNCIA VS. EVOLUÇÃO MÉDIA:
-
-<img width="445" height="232" alt="image" src="https://github.com/user-attachments/assets/b5cb0b73-decd-4d71-a643-12656a1e3ca1" />
 
 # Vídeo da conclusão da análise de dados de sugurança viária
 
