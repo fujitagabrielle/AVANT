@@ -262,7 +262,7 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 
 
-# Vídeo da conclusão da análise de dados de sugurança viária
+# Vídeo da conclusão da análise de dados de segurança viária
 
 https://youtu.be/1oizxz9ZxDQ?si=fHOnUONHqyxU6SXL
 
